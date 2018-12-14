@@ -19,7 +19,7 @@ s.name              = "ZHMultiTable"
 s.version          = "0.1.0"
 s.summary          = "iOS多级联动视图组件"
 s.description      = <<-DESC.gsub(/^\s*\|?/,'')
-An optional longer description of XUEZHIYUN
+An optional longer description of ZHMultiTable
 
 | * Markdown format.
 | * Don't worry about the indent, we strip it!
